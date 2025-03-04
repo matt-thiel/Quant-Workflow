@@ -1,5 +1,5 @@
 ## Quant Workflow: A Scientific Method for Finance
--This repo contains the code, presentations, and complete thesis paper for the undergraduate Capstone Thesis project, Quant Workflow: A Scientific Method for Finance. Awarded Warren-Street Thesis Prize for outstanding research, writing, and effort.
+This repo contains the code, presentations, and complete thesis paper for the undergraduate Capstone Thesis project, Quant Workflow: A Scientific Method for Finance. Awarded Warren-Street Thesis Prize for outstanding research, writing, and effort.
 
 
 ### Installation Instructions
